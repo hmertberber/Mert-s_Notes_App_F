@@ -1,0 +1,1 @@
+Basic flutter note taking application
